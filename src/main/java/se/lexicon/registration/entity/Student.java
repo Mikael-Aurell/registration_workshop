@@ -6,9 +6,7 @@ import org.hibernate.annotations.GenericGenerator;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.util.UUID;
 
 @Entity
 @Data
